@@ -1,0 +1,1 @@
+This is a basic recipes website to demonstrate my acquired HTML skills. I will create a basic website linking to a few recipes. Recipes will include some ordered and unordered lists, maybe some photos of food, basic index page, and that stuff. 
